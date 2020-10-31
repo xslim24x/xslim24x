@@ -1,19 +1,18 @@
 ### Hi, I'm Slim 👋
+[![Web Badge](https://img.shields.io/badge/slimbabay.com--000000?style=social&logo=data:image/png;base64,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&link=https://slimbabay.com)](https://slimbabay.com)
+[![Facebook Badge](https://img.shields.io/badge/--1877F2?style=social&logo=facebook&link=https://fb.com/slimbabay)](https://fb.com/slimbabay) [![LinkedIn Badge](https://img.shields.io/badge/--0077B5?style=social&logo=linkedin&link=https://linkedin.com/in/in/slimbabay/)](https://linkedin.com/in/in/slimbabay/)
 
-## I'm a Fullstack Developer, Graphics Designer, and Maker
+## I'm a Full Stack Developer, Graphics Designer, and Maker
 - 🏢 I currently fly & build drones for use in mapping and forestry with [hme enterprises ltd][hmeenterprises].
 - 🔭 I’m currently working on solutions for sustainable year-round growing in northern communities (co-founded [ASM Innovations Inc.][asminnovations])
+- 💬 Ask me about systems automation, air gapped networks, mobile & web solutions
 - 👯 I’m looking to collaborate with other content creators 
 
 <br />
 
 ## 📫 How to connect with me:
-[<img align="left" alt="slimbabay.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="slimbabay | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="slimbabay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Email slim@slimbabay.com
 
 [website]: https://slimbabay.com
-[hmeenterprises]: http://hmeenterprises.ca
+[hmeenterprises]: http://www.hmeenterprises.ca
 [asminnovations]: http://www.asminnovations.ca
-[facebook]: https://fb.com/slimbabay
-[linkedin]: https://linkedin.com/in/in/slimbabay/
