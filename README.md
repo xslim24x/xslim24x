@@ -6,7 +6,7 @@
 - 🏢 I currently fly & build drones for use in mapping and forestry with [hme enterprises ltd][hmeenterprises].
 - 🔭 I’m currently working on solutions for sustainable year-round growing in northern communities (co-founded [ASM Innovations Inc.][asminnovations])
 - 💬 Ask me about systems automation, air gapped networks, mobile & web solutions
-- 👯 I’m looking to collaborate with other content creators 
+- 👯 I’m looking to collaborate with other developers 
 
 <br />
 
